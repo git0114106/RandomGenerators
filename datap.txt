@@ -1,1 +1,3 @@
 https://www.howtoforge.com/tutorial/ubuntu-postgresql-installation/
+https://infoscape.net.in:9443/Infoscape/login.do
+https://github.com/MrPowers/spark-daria
